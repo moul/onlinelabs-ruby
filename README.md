@@ -1,5 +1,7 @@
 # Online Labs Rubygem
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/onlinelabs-ruby.svg)](https://www.guardrails.io)
+
 Easy to use Online Labs api client.
 
 ## Installation
